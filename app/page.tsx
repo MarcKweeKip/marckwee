@@ -5,7 +5,7 @@ import Header from './components/header';
 
 import Panel from './components/panel';
 import Slider from './components/slider';
-import Logos from './components/logos';
+
 import About from './components/about';
 import Contact from './components/contact';
 import { PageProvider } from './context/PageContext';

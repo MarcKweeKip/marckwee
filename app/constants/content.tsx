@@ -100,33 +100,6 @@ export const quotes = [
   },
 ];
 
-export const logos = [
-  {
-    src: 'https://via.placeholder.com/150',
-    alt: 'Logo 1',
-  },
-  {
-    src: 'https://via.placeholder.com/150',
-    alt: 'Logo 2',
-  },
-  {
-    src: 'https://via.placeholder.com/150',
-    alt: 'Logo 3',
-  },
-  {
-    src: 'https://via.placeholder.com/150',
-    alt: 'Logo 4',
-  },
-  {
-    src: 'https://via.placeholder.com/150',
-    alt: 'Logo 5',
-  },
-  {
-    src: 'https://via.placeholder.com/150',
-    alt: 'Logo 6',
-  },
-];
-
 const aboute = {
   title: 'About me',
   description:

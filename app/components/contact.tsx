@@ -74,7 +74,7 @@ export default function Contact(): JSX.Element {
             </svg>
 
 
-              <a className="font-[0.9375rem] leading-[1.3125rem]" href='tel:+31638031420'>(+31)6 - 38 031 420</a>
+              <a className="font-[0.9375rem] leading-[1.3125rem]" href="tel:+31638031420">(+31)6 - 38 031 420</a>
             </li>
           </ul>
           <div className="flex gap-6">
