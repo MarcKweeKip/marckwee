@@ -32,18 +32,17 @@ export default function Contact(): JSX.Element {
 
 
           <Image
-            src='/marc-small.png'
-            alt='Marc Kwee'
+            src="/marc-small.png"
+            alt="Marc Kwee"
             width={175}
             height={175}
-
-            className='border-white border-[5px] rounded-full md:mb-6 mb-4'
+            className="border-white border-[5px] rounded-full md:mb-6 mb-4"
           />
 
 
-          <h2 className='md:text-6xl text-2xl font-semibold md:mb-8 mb-6'>Let's talk!</h2>
+          <h2 className='md:text-6xl text-2xl font-semibold md:mb-8 mb-6'>Let&apos;s talk!</h2>
 
-          <ul className='flex flex-col justify-center md:gap-4 gap-10 md:mb-8 mb-12'>
+          <ul className="flex flex-col justify-center md:gap-4 gap-10 md:mb-8 mb-12">
             <li className='text-2xl flex items-center gap-3'>
             <svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
               <g clip-path="url(#clip0_352_946)">
