@@ -12,7 +12,7 @@ export default function Header(): JSX.Element {
       <Container additionalClasses='relative'>
         <Menu />
         <div className='absolute bottom-9 right-9 mx-auto opacity-60 sm:relative sm:bottom-0 sm:right-0 sm:col-start-1 sm:ml-24 sm:h-full sm:border-l-2 sm:border-dashed sm:border-white md:col-start-2 md:mx-auto'>
-          <span className='bottom-16 left-8 -translate-x-full -rotate-90 transform whitespace-nowrap text-sm font-light tracking-wide text-white sm:absolute'>
+          <span className='bottom-32 left-8 -translate-x-full -rotate-90 transform whitespace-nowrap text-sm font-light tracking-wide text-white sm:absolute'>
             scroll for more
           </span>
         </div>
@@ -22,7 +22,7 @@ export default function Header(): JSX.Element {
           </span>
 
           <h1 className='mb-3 text-2xl font-medium leading-normal text-bblack sm:mb-4 sm:text-[2rem] sm:leading-10 md:pr-7 md:text-[1.625rem] md:leading-8 lg:pr-20 lg:text-[2rem] lg:leading-10 xl:pr-[8.75rem] xl:text-[2.5rem] xl:leading-[3rem] 2xl:pr-10 2xl:text-6xl 2xl:leading-normal'>
-            {content.subtitle}
+          I help organizations successfully execute large-scale <span className="text-[#019CDE]">Drupal</span> projects.
           </h1>
 
           <p className='mb-8 text-lg leading-normal text-bblack sm:text-xl sm:leading-7 md:mb-6 md:text-base md:leading-6 lg:text-xl lg:leading-[30px] xl:mb-10 xl:pr-[8.75rem] xl:text-2xl xl:leading-9 2xl:text-3xl 2xl:text-[2rem] 2xl:leading-normal'>

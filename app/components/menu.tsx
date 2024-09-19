@@ -39,17 +39,29 @@ export default function Menu() {
           </button>
           <ul className='mb-4 flex w-full flex-col items-center justify-center px-14 md:mb-0 md:w-auto md:flex-row md:gap-0 md:space-x-6 md:space-y-0 md:px-0'>
             <li className='w-full border-b border-white border-opacity-10 py-4 md:w-auto md:py-0'>
-              <a href='#' className='md:hover:text-ppurple-dark'>
+              <a onClick={(e) => {
+                  e.preventDefault();
+                  hideMobileMenu();
+                  window.location.href = '/#expertise';
+                }} href='/#expertise' className='md:hover:text-ppurple-dark'>
                 expertise
               </a>
             </li>
             <li className='w-full border-b border-white border-opacity-10 py-4 md:w-auto md:py-0'>
-              <a href='#' className='md:hover:text-ppurple-dark'>
-                work
+              <a onClick={(e) => {
+                  e.preventDefault();
+                  hideMobileMenu();
+                  window.location.href = '/#references';
+                }}  href='/#references' className='md:hover:text-ppurple-dark'>
+                references
               </a>
             </li>
             <li className='w-full py-4 md:w-auto md:py-0'>
-              <a href='#' className='md:hover:text-ppurple-dark'>
+              <a onClick={(e) => {
+                  e.preventDefault();
+                  hideMobileMenu();
+                  window.location.href = '/#about';
+                }} href='/#about' className='md:hover:text-ppurple-dark'>
                 about
               </a>
             </li>

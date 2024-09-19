@@ -16,7 +16,7 @@ export default function Cta() {
               >
                 let’s connect
               </button>
-        <a className="border-b border-black 2xl:text-[1.75rem] 2xl:leading-10 xl:text-2xl xl:leading-[2.125rem] lg:text-xl lg:leading-[1.875rem] md:text-base md:leading-6 sm:text-[0.9375rem] sm:leading-[1.4375rem] text-[0.8125rem] leading-[1.1875rem] font-light text-black mb-12 sm:mb-14 md:mb-16 lg:mb-20 xl:mb-24 2xl:mb-[7.5rem]" href="#">
+        <a href="/files/CV-MarcKwee-Freelance-Drupal-Developer-Consultant-2024.pdf" className="border-b border-black 2xl:text-[1.75rem] 2xl:leading-10 xl:text-2xl xl:leading-[2.125rem] lg:text-xl lg:leading-[1.875rem] md:text-base md:leading-6 sm:text-[0.9375rem] sm:leading-[1.4375rem] text-[0.8125rem] leading-[1.1875rem] font-light text-black mb-12 sm:mb-14 md:mb-16 lg:mb-20 xl:mb-24 2xl:mb-[7.5rem]">
           download cv
         </a>
 
