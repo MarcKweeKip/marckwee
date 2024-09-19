@@ -25,7 +25,7 @@ export default function References() {
       <div className="relative md:col-start-2 md:block hidden mx-auto h-full border-l-2 border-dashed border-white opacity-40"></div>
 
       {/* Expertise Content */}
-      <div className="sm:col-span-5 sm:col-start-2 md:col-span-8 md:col-start-4 m-auto 2xl:py-[13.375rem] xl:py-[11.375rem] md:py-[9.375rem] sm:mx-0 ml-[3.375rem] sm:py-[6.25rem] overflow-hidden pt-16 mb-16">
+      <div id="references" className="sm:col-span-5 sm:col-start-2 md:col-span-8 md:col-start-4 m-auto 2xl:py-[13.375rem] xl:py-[11.375rem] md:py-[9.375rem] sm:mx-0 ml-[3.375rem] sm:py-[6.25rem] overflow-hidden pt-16 mb-16">
         {/* <ul className="xl:mb-[7.5rem]  mb-20">
             <li className="border-white flex border-t-[5px] relative 2xl:mb-[8.25rem] md:mb-[6.25rem] sm:pr-0 pt-8 pr-[3.375rem] mb-10">
                 <div className="2xl:pt-[1.875rem] 2xl:pl-10 2xl:pr-[16.25rem] md:pt-[1.875rem] md:pl-10 md:pr-[13.25rem]  md:text-right text-left">
