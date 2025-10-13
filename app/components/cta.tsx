@@ -21,7 +21,7 @@ export default function Cta() {
         </a>
 
         <span className="text-center w-full md:border-t-[0.1875rem] md:border-b-[0.1875rem] text-ggreen-light 2xl:text-[1.75rem] 2xl:leading-10 xl:text-2xl xl:leading-[2.125rem] lg:text-xl lg:leading-[1.875rem] md:text-base md:leading-6 sm:text-[0.9375rem] sm:leading-[1.4375rem] text-[0.8125rem] leading-[1.1875rem] font-light block py-4 border-opacity-20 border-t border-dashed border-b border-ggreen-light">
-          Available for projects from January 2025
+          Available for projects from April 2026
         </span>
       </div>
       <div className="xl:text-2xl pt-8 col-span-12 w-full flex text-black text-[0.8125rem]">
