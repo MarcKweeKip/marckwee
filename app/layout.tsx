@@ -7,8 +7,6 @@ const outfit = Outfit({
   weight: ['300', '400', '500', '600', '700', '900'], // Specify the weights you need
 });
 
-export const metadataBase = new URL('https://marckwee.nl');
-
 export const metadata: Metadata = {
   title: {
     default: 'Marc Kwee — Freelance Drupal Developer & Consultant',
